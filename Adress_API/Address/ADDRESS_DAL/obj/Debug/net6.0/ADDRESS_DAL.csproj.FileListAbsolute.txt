@@ -1,0 +1,12 @@
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\bin\Debug\net6.0\ADDRESS_DAL.deps.json
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\bin\Debug\net6.0\ADDRESS_DAL.dll
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\bin\Debug\net6.0\ADDRESS_DAL.pdb
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\obj\Debug\net6.0\ADDRESS_DAL.csproj.AssemblyReference.cache
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\obj\Debug\net6.0\ADDRESS_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\obj\Debug\net6.0\ADDRESS_DAL.AssemblyInfoInputs.cache
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\obj\Debug\net6.0\ADDRESS_DAL.AssemblyInfo.cs
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\obj\Debug\net6.0\ADDRESS_DAL.csproj.CoreCompileInputs.cache
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\obj\Debug\net6.0\ADDRESS_DAL.dll
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\obj\Debug\net6.0\refint\ADDRESS_DAL.dll
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\obj\Debug\net6.0\ADDRESS_DAL.pdb
+C:\Diego\Cursos\Bootcamp2-Devlights\Pruebas\Adress_API\Address\ADDRESS_DAL\obj\Debug\net6.0\ref\ADDRESS_DAL.dll

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ADDRESS_DAL.Models
 {
-    internal class Contact
+    public class Contact
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -16,9 +16,26 @@ namespace ADDRESS_DAL.Models
 
         public List<SocialNetwork>? SocialNetworks { get; set; }
 
-        public Contact(int id, string name, string address, DateTime? birthDate, string? phoneNumber, List<SocialNetwork>? socialNetworks)
+
+        public Contact(string name, string address)
         {
-            Id = id;
+            
+            Name = name;
+            Address = address;
+        }
+
+        public Contact(string name, string address, DateTime? birthDate, string? phoneNumber)
+        {
+            
+            Name = name;
+            Address = address;
+            BirthDate = birthDate;
+            PhoneNumber = phoneNumber;
+        }
+
+        public Contact(string name, string address, DateTime? birthDate, string? phoneNumber, List<SocialNetwork>? socialNetworks)
+        {
+           
             Name = name;
             Address = address;
             BirthDate = birthDate;
@@ -26,11 +43,6 @@ namespace ADDRESS_DAL.Models
             SocialNetworks = socialNetworks;
         }
 
-        public Contact(int id, string name, string address)
-        {
-            Id= id;
-            Name = name;
-            Address = address;
-        }
+        
     }
 }

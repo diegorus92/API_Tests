@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ADDRESS_DAL.Models
 {
-    internal class SocialNetwork
+    public class SocialNetwork
     {
         public int Id { get; set; }
         public string Name { get; set; }
