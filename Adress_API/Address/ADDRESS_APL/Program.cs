@@ -1,10 +1,12 @@
+using ADDRESS_BAL.Services;
 using ADDRESS_DAL.Data;
 using ADDRESS_DAL.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-insertContacts();
+builder.Services.AddDbContext<AddressAppContext>();
+//insertContacts();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -31,7 +33,7 @@ app.Run();
 
 
 
-void insertContacts()
+/*void insertContacts()
 {
     using(var context = new AddressAppContext())
     {
@@ -43,4 +45,4 @@ void insertContacts()
 
         context.SaveChanges();
     }
-}
+}*/

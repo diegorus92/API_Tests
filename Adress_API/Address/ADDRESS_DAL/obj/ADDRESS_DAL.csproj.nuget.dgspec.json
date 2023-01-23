@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj": {}
+    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj": {}
   },
   "projects": {
-    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj": {
+    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj",
+        "projectUniqueName": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj",
         "projectName": "ADDRESS_DAL",
-        "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj",
+        "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj",
         "packagesPath": "C:\\Users\\Educacion\\.nuget\\packages\\",
-        "outputPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\obj\\",
+        "outputPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Educacion\\AppData\\Roaming\\NuGet\\NuGet.Config",

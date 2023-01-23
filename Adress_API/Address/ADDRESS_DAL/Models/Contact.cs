@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace ADDRESS_DAL.Models
@@ -24,6 +25,7 @@ namespace ADDRESS_DAL.Models
             Address = address;
         }
 
+        [JsonConstructor] //Soluciona error de Deserealizacion System.NotSupportedException
         public Contact(string name, string address, DateTime? birthDate, string? phoneNumber)
         {
             

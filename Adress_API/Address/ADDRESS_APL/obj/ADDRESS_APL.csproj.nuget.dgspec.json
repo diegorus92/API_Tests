@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_APL\\ADDRESS_APL.csproj": {}
+    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_APL\\ADDRESS_APL.csproj": {}
   },
   "projects": {
-    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_APL\\ADDRESS_APL.csproj": {
+    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_APL\\ADDRESS_APL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_APL\\ADDRESS_APL.csproj",
+        "projectUniqueName": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_APL\\ADDRESS_APL.csproj",
         "projectName": "ADDRESS_APL",
-        "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_APL\\ADDRESS_APL.csproj",
+        "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_APL\\ADDRESS_APL.csproj",
         "packagesPath": "C:\\Users\\Educacion\\.nuget\\packages\\",
-        "outputPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_APL\\obj\\",
+        "outputPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_APL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Educacion\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj": {
-                "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj"
+              "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj": {
+                "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj"
               }
             }
           }
@@ -64,6 +64,10 @@
               "target": "Package",
               "version": "[6.0.13, )"
             },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
@@ -92,14 +96,14 @@
         }
       }
     },
-    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj": {
+    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj",
+        "projectUniqueName": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj",
         "projectName": "ADDRESS_BAL",
-        "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj",
+        "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj",
         "packagesPath": "C:\\Users\\Educacion\\.nuget\\packages\\",
-        "outputPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_BAL\\obj\\",
+        "outputPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_BAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Educacion\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,8 +120,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj": {
-                "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj"
+              "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj": {
+                "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj"
               }
             }
           }
@@ -151,14 +155,14 @@
         }
       }
     },
-    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj": {
+    "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj",
+        "projectUniqueName": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj",
         "projectName": "ADDRESS_DAL",
-        "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj",
+        "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj",
         "packagesPath": "C:\\Users\\Educacion\\.nuget\\packages\\",
-        "outputPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\obj\\",
+        "outputPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Educacion\\AppData\\Roaming\\NuGet\\NuGet.Config",

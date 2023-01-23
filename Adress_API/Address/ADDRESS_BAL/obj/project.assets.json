@@ -1934,11 +1934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj",
+      "projectUniqueName": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj",
       "projectName": "ADDRESS_BAL",
-      "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj",
+      "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_BAL\\ADDRESS_BAL.csproj",
       "packagesPath": "C:\\Users\\Educacion\\.nuget\\packages\\",
-      "outputPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_BAL\\obj\\",
+      "outputPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_BAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Educacion\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1955,8 +1955,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj": {
-              "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj"
+            "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj": {
+              "projectPath": "C:\\Diego\\Cursos\\Bootcamp2-Devlights\\Pruebas\\API_Tests\\Adress_API\\Address\\ADDRESS_DAL\\ADDRESS_DAL.csproj"
             }
           }
         }
